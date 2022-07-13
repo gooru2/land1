@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    align-items: center;
+    background:rgba(107, 74, 211, 0.9);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+main{
+    background: rgba(102, 183, 220, 1.0);
+    background: -webkit-radial-gradient(top right, rgba(102, 183, 220, 1.0), rgba(107, 74, 211, 1.0));
+    background: -moz-radial-gradient(top right, rgba(102, 183, 220, 1.0), rgba(107, 74, 211, 1.0));
+    background: radial-gradient(to bottom left, rgba(102, 183, 220, 1.0), rgba(107, 74, 211, 1.0));
+    border-radius: 3%;
+    height:800px;
+    width: 1280px;
+    box-shadow: 0em;
+}
